@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = x1 - f(x1) × \\left(\\frac{(x2 - x1)}{(f(x2) - f(x1))}\\right) $$ $$\\text{equation } =  cos(x)-x × exp(x) $$ $$\\text{What is function value of 6th iteration using false position method?}$$",
+      "qid": 1,
+      "option_a": "0.00603",
+      "option_b": "0.00583",
+      "option_c": "0.00361",
+      "option_d": "0.00254",
+      "correct_option": "d"
+   },
+   {
+      "question": "$$ \\text{Initial guess} \\quad x1 = 0 \\quad and \\quad x2 = 1 $$ $$ x3 = x1 - f(x1) × \\left(\\frac{(x2 - x1)}{(f(x2) - f(x1))}\\right) $$ $$\\text{equation } =  cos(x)-x × exp(x) $$ $$\\text{What is root value of 6th iteration using false position method?}$$",
+      "qid": 2,
+      "option_a": "0.51775",
+      "option_b": "0.51667",
+      "option_c": "0.51692",
+      "option_d": "0.51773",
+      "correct_option": "c"
+   }
+]
