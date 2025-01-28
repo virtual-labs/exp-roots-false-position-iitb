@@ -9,4 +9,4 @@
 </p>
 
 <p style="text-align: center;"><img src="./images/fig1.png"></p>
-<p style="text-align: center;"> Fig 1 </p>
+<p style="text-align: center;"> Fig 1 </p><script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"> </script>
