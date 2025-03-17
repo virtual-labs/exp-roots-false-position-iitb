@@ -1,0 +1,38 @@
+[
+   {
+      "question": "False position method is",
+      "qid": 1,
+      "option_a": "direct method",
+      "option_b": "bracketing method",
+      "option_c": "fix point iterative method",
+      "option_d": "one point iterative method",
+      "correct_option": "b"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) < 0, select most suitable option.",
+      "qid": 2,
+      "option_a": "x<sub>1</sub> & x<sub>2</sub>, contains at least one root",
+      "option_b": "x<sub>1</sub> & x<sub>2</sub>, contains root",
+      "option_c": "x<sub>1</sub> & x<sub>2</sub>, contains multiple roots",
+      "option_d": "x<sub>1</sub> & x<sub>2</sub>,contains only real roots",
+      "correct_option": "a"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) > 0, select most suitable option.",
+      "qid": 3,
+      "option_a": "Root lies between x<sub>1</sub> & x<sub>2</sub>",
+      "option_b": "Root does not lie between x<sub>1</sub> & x<sub>2</sub>",
+      "option_c": "Root may lie or may not lie between x<sub>1</sub> & x<sub>2</sub>",
+      "option_d": "Root does not exsists",
+      "correct_option": "c"
+   },
+   {
+      "question": "If f(x<sub>1</sub>) &times; f(x<sub>2</sub>) = 0",
+      "qid": 4,
+      "option_a": "Either x<sub>1</sub> or x<sub>2</sub> is the root of the equation",
+      "option_b": "Equation do not have real root",
+      "option_c": "Equation do not have root",
+      "option_d": "Equation cannot be solved by false position method",
+      "correct_option": "a"
+   }
+]
